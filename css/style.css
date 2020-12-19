@@ -59,6 +59,26 @@ padding-left: 12px;
 padding-right: 12px;
 }
 
+.buttons {
+    display:inline-block;
+    width: 100%;
+    text-align:center;
+    line-height:28px;
+}
+.grey-button {
+    margin-top:10px;
+    margin-right:10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    display:inline-block;
+    height:28px;
+    background-color: #f1ededec;
+    color: rgb(106, 106, 107);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    border-radius: 4px;
+
+}
 
 
 
@@ -83,7 +103,7 @@ padding-right: 12px;
 
 
 .search-input {
-    width: 65%;
+    width: 25%;
 }
 
 .footer {
